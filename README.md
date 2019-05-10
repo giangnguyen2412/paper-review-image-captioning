@@ -1,5 +1,5 @@
 # paper-review-image-captioning
-A hub for reviews papers in Image Captioning 
+A hub for paper reviews in Image Captioning 
 
 ### 2017
 
