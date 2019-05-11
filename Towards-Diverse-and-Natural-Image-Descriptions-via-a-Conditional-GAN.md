@@ -37,7 +37,7 @@ Various evaluation metrics have been proposed
 
 ## Framework
 ### Overall formulation
-![](https://github.com/luulinh90s/paper-review-image-captioning/blob/master/images/Towards-Diverse-and-Natural-Image-Descriptions-via-a-Conditional-GAN/Untitled.png)
+![](https://github.com/luulinh90s/paper-review-image-captioning/blob/master/images/Towards-Diverse-and-Natural-Image-Descriptions-via-a-Conditional-GAN/architecture.png)
 
 Here the random vector z allows the generator to product different description given an image. One can control the diversity y tuning the variance of z (z can changes in a wide range). 
 
