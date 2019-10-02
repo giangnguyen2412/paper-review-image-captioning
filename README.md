@@ -10,5 +10,4 @@ A hub for paper reviews in Image Captioning
 
 ### 2018
 * [Neural BaBy Talk](https://arxiv.org/pdf/1803.09845.pdf) - Jianwei Yang, JiasenLu et al, `CVPR 2018`- [1](https://www.jianshu.com/p/35c3e399027e), [2](https://blog.csdn.net/qq_35513824/article/details/80412823), [3](https://www.zhihu.com/question/273826481) 
-
 * [Show, Observe and Tell: Attribute-driven Attention Model for Image Captioning](https://www.ijcai.org/proceedings/2018/0084.pdf) - Chen et al, `IJCAI 2018`- [1](https://github.com/luulinh90s/paper-review-image-captioning/blob/master/show_observe_tell.md)
